@@ -1,0 +1,4 @@
+set(INCLUDE__SVM_Footpad TRUE)
+set(PROJECT_UBINOS_LIBRARIES ${PROJECT_UBINOS_LIBRARIES} SVM_Footpad)
+
+set_cache_default(SVM_Footpad TRUE BOOL "")
